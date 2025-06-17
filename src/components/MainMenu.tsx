@@ -81,7 +81,7 @@ export const MainMenu: React.FC<MainMenuProps> = ({
           <div className="crypto-preview btc">₿</div>
           <div className="crypto-preview eth">Ξ</div>
           <div className="crypto-preview doge">Ð</div>
-          <div className="crypto-preview sol">◎</div>
+          <div className="crypto-preview sol">X</div>
           <div className="crypto-preview usdt">₮</div>
           <div className="crypto-preview ton">💎</div>
         </div>
