@@ -25,8 +25,8 @@ export const CRYPTO_TYPES: CryptoType[] = [
   {
     id: 'sol',
     name: 'Solana',
-    symbol: '◎',
-    color: '#9945FF',
+    symbol: 'X',
+    color: '#FFFFFF',
     gradient: 'linear-gradient(135deg, #9945FF 0%, #14F195 100%)'
   },
   {
